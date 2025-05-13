@@ -1,6 +1,3 @@
-### Update scripts_pipeline.py
-The code is using hardcoded Windows-style backslashes in paths, which breaks in Linux/*nix, where paths must use forward slashes (/), or preferably os.path.dirname() for cross-platform compatibility.
-
 # ComfyUI Universal Styler
 ```py
 VERSION: Release 0.5.1 - UPDATED 02/2025 - Licensed under GNU General Public License v3.0
