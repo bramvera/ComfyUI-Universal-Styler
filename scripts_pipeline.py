@@ -7,13 +7,6 @@ import folder_paths
 class SetMainChannel:
     @classmethod
     def INPUT_TYPES(cls):
-        base = os.path.dirname(__file__)
-        cls.agents_csv = cls.load_agents_csv(os.path.join(base, "SCRIPTS", "agents.csv"))
-        cls.scenes_csv = cls.load_scenes_csv(os.path.join(base, "SCRIPTS", "scenes.csv"))
-        cls.motions_csv = cls.load_motions_csv(os.path.join(base, "SCRIPTS", "motions.csv"))
-        cls.lightings_csv = cls.load_lightings_csv(os.path.join(base, "SCRIPTS", "lightings.csv"))
-        cls.styles_csv = cls.load_styles_csv(os.path.join(base, "SCRIPTS", "styles.csv"))
-        cls.cameras_csv = cls.load_cameras_csv(os.path.join(base, "SCRIPTS", "cameras.csv"))
         return {
             "required": {
                 "channel": ("STRING", {"default": "CH_0001", "multiline":False}),
@@ -34,13 +27,6 @@ class SetMainChannel:
 class SaveScriptToDatabase:
     @classmethod
     def INPUT_TYPES(cls):
-        base = os.path.dirname(__file__)
-        cls.agents_csv = cls.load_agents_csv(os.path.join(base, "SCRIPTS", "agents.csv"))
-        cls.scenes_csv = cls.load_scenes_csv(os.path.join(base, "SCRIPTS", "scenes.csv"))
-        cls.motions_csv = cls.load_motions_csv(os.path.join(base, "SCRIPTS", "motions.csv"))
-        cls.lightings_csv = cls.load_lightings_csv(os.path.join(base, "SCRIPTS", "lightings.csv"))
-        cls.styles_csv = cls.load_styles_csv(os.path.join(base, "SCRIPTS", "styles.csv"))
-        cls.cameras_csv = cls.load_cameras_csv(os.path.join(base, "SCRIPTS", "cameras.csv"))
         return {
             "required": {
                 "prompt_title": ("STRING", {"default": "Scene_1/Motion_A/V1", "multiline":False}),
