@@ -1,21 +1,39 @@
-﻿name,short_prompt,long_prompt
+name,short_prompt,long_prompt
 Select a style...,,,
-Artistic Realism,"Artistic Realism.","Artistic Realism.",
-Artistic Impressionism,"Artistic Impressionism.","Artistic Impressionism.",
-Artistic Expressionism,"Artistic Expressionism.","Artistic Expressionism.",
-Artistic Cubism,"Artistic Cubism.","Artistic Cubism.",
-Artictic conceptual,"Conceptual Art.","Conceptual Art.",
-Artistic Surrealism,"Artistic Surrealism.","Artistic Surrealism.",
-Artistic Pop,"Artistic Pop.","Artistic Pop.",
-Artistic Street,"Graffiti art.","Graffiti art.",
-Abstract Reality,"Abstract visual.","Abstract forms and shapes.",
-Abstract Expressionism,"Abstract Expressionism.","Abstract Expressionism.",
-Abstract Minimalism,"Abstract Minimalism.","Abstract Minimalism.",
-Photorealism color,"8K, Realistic colors, Hyperrealism, Depth of Field.","High definition, ultra resolution, high quality image.",
-Photorealism Black and white,"Photorealism Black and white.","Photorealism Black and white.",
-Photorealism Sepia,"Photorealism Sepia.","Photorealism Sepia.",
-Photorealism Vintage,"Photorealism Vintage.","Photorealism Vintage.",
-Digital 3D Art,"Digital 3D Art.","Digital 3D Art.",
-Cartoon Anime,"Manga cartoon style.","Manga cartoon style.",
-Video Cinematic,"Film and video art.","Film and video art.",
-Industrial design,"Industrial design.","CAD blueprint.",
+Artistic Realism,"Artistic Realism.","Hyperrealistic artwork with meticulous attention to detail, lifelike textures, perfect lighting and shadows, photographic quality rendering, precise anatomical accuracy, masterful technique"
+Artistic Impressionism,"Artistic Impressionism.","Impressionist painting style with visible brushstrokes, emphasis on light and its changing qualities, vivid colors, ordinary subject matter, movement as a crucial element, plein air technique"
+Artistic Expressionism,"Artistic Expressionism.","Expressionist art with bold colors, distorted forms, emotional intensity, subjective perspective, dramatic contrasts, psychological depth, raw emotional energy"
+Artistic Cubism,"Artistic Cubism.","Cubist composition with geometric shapes, multiple perspectives, fragmented objects, analytical breakdown of forms, monochromatic or limited color palette, avant-garde approach"
+Artictic conceptual,"Conceptual Art.","Conceptual art where ideas take precedence over traditional aesthetic and material concerns, thought-provoking, minimalist execution, intellectual engagement"
+Artistic Surrealism,"Artistic Surrealism.","Surrealist imagery with dreamlike scenes, impossible combinations, subconscious exploration, fantastic creatures, distorted reality, automatic drawing techniques"
+Artistic Pop,"Artistic Pop.","Pop art style with bold colors, commercial imagery, mass culture references, screen printing effects, consumer goods, celebrity portraits, comic book aesthetics"
+Artistic Street,"Street Art.","Urban street art with graffiti elements, spray paint textures, stencil work, vibrant colors, social commentary, underground culture, wall murals"
+Anime Style,"Japanese anime aesthetic.","Anime art style with large expressive eyes, stylized hair, exaggerated emotions, cel-shaded coloring, dynamic poses, Japanese cultural elements"
+Manga Style,"Black and white manga illustration.","Manga illustration with clean line art, screentones, dramatic angles, speed lines, emotional expressions, Japanese storytelling elements"
+Watercolor,"Watercolor painting technique.","Watercolor painting with translucent washes, flowing pigments, wet-on-wet techniques, soft edges, luminous transparency, organic bleeding effects"
+Oil Painting,"Traditional oil painting.","Oil painting with rich impasto textures, blended colors, classical techniques, depth and luminosity, traditional brushwork, Renaissance influence"
+Digital Art,"Modern digital artwork.","Digital art with clean vector graphics, gradient effects, pixel-perfect details, modern aesthetics, technological precision, contemporary design"
+Pixel Art,"8-bit pixel art style.","Pixel art with blocky textures, limited color palette, retro gaming aesthetics, careful pixel placement, nostalgic 8-bit charm"
+Art Nouveau,"Art Nouveau decorative style.","Art Nouveau with flowing organic lines, natural motifs, elegant curves, decorative elements, botanical inspiration, ornamental beauty"
+Art Deco,"1920s Art Deco style.","Art Deco with geometric patterns, metallic finishes, bold typography, luxury aesthetics, streamlined forms, golden age glamour"
+Steampunk,"Victorian steampunk aesthetic.","Steampunk design with brass gears, steam pipes, Victorian fashion, mechanical contraptions, copper patina, industrial elegance"
+Cyberpunk,"Futuristic cyberpunk style.","Cyberpunk aesthetic with neon colors, digital glitches, high-tech low-life, chrome surfaces, holographic effects, dystopian future"
+Minimalism,"Clean minimalist design.","Minimalist composition with simple forms, negative space, limited color palette, geometric purity, essential elements only"
+Maximalism,"Rich maximalist style.","Maximalist design with ornate details, layered textures, abundant colors, decorative excess, pattern mixing, visual complexity"
+Gothic,"Dark gothic atmosphere.","Gothic style with pointed arches, dark shadows, medieval elements, ornate stonework, mysterious atmosphere, cathedral grandeur"
+Baroque,"Ornate baroque style.","Baroque art with dramatic lighting, rich colors, ornate decoration, emotional intensity, dynamic movement, theatrical grandeur"
+Renaissance,"Classical renaissance style.","Renaissance art with perfect proportions, classical mythology, sfumato technique, architectural backgrounds, humanistic ideals"
+Impressionist,"French impressionist painting.","Impressionist technique with broken color, light effects, loose brushwork, outdoor scenes, momentary impressions, atmospheric qualities"
+Post-Impressionist,"Post-impressionist style.","Post-impressionist approach with symbolic content, synthetic colors, decorative qualities, expressive brushwork, personal vision"
+Fauvism,"Bold fauvist colors.","Fauvist painting with wild colors, simplified forms, emotional expression, non-naturalistic palette, bold brushstrokes"
+Abstract,"Pure abstract composition.","Abstract art with non-representational forms, color relationships, geometric or organic shapes, pure visual elements, compositional balance"
+Photorealism,"Hyperrealistic photography style.","Photorealistic rendering with camera-like precision, perfect detail, realistic lighting, documentary quality, technical mastery"
+Grunge,"Distressed grunge aesthetic.","Grunge style with worn textures, distressed effects, underground culture, raw authenticity, deliberate imperfection, alternative aesthetics"
+Vintage,"Nostalgic vintage look.","Vintage aesthetic with aged patina, sepia tones, retro typography, classic proportions, timeless elegance, historical charm"
+Retro,"Mid-century retro style.","Retro design with atomic age motifs, bright colors, space-age forms, optimistic futurism, bold graphics, period authenticity"
+Film Noir,"Classic film noir mood.","Film noir atmosphere with dramatic shadows, high contrast lighting, urban settings, mysterious mood, black and white palette"
+Ukiyo-e,"Traditional Japanese woodblock.","Ukiyo-e woodblock print with flat colors, bold outlines, decorative patterns, Japanese aesthetics, traditional craftsmanship"
+Chinese Ink,"Traditional Chinese ink painting.","Chinese ink painting with fluid brushstrokes, minimal color, philosophical depth, natural subjects, calligraphic quality"
+Pointillism,"Pointillist dot technique.","Pointillist painting with colored dots, optical mixing, scientific color theory, luminous effects, systematic application"
+Romantic,"Romantic movement style.","Romantic art with emotional intensity, dramatic landscapes, sublime nature, individual expression, passionate themes"
+Neoclassical,"Neoclassical academic style.","Neoclassical composition with classical themes, idealized forms, moral narratives, technical perfection, historical subjects"

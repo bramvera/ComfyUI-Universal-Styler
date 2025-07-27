@@ -1,9 +1,41 @@
-﻿name,short_prompt,long_prompt
-Select an agent...,"with the skill of a digital artist.","with the skill of a digital artist.",
-Graphic Designer,"with the skill of graphic designer.","with the skills of creating new digital contents and very attractive.",
-Visual Fx Supervisor,"with he skill of a visual effect supervisor.","with the skills of editing videos and applying visual effects layers.",
-Video Producer,"with the skill of a video producer.","with the skills of video editing and publishing, of a video producer."
-Storyboarder,"with a skill of a storyboarder.","with the skill of a professional storyboarder.",
-Game Developer,"with a skill of a Game Developer.","with the skill of a professional Game Developer.",
-Marketing Manager,"with a skill of a Marketing Manager.","with the skill of a professional Marketing Manager.",
-Fashion Designer,"with a skill of a fashion designer","with a skill of a fashion designer",
+name,short_prompt,long_prompt
+Select an agent...,"with the skill of a digital artist.","with the skill of a digital artist."
+Graphic Designer,"with the skill of graphic designer.","with the skills of creating new digital contents and very attractive, mastering typography, layout design, brand identity, and visual communication"
+Visual Fx Supervisor,"with he skill of a visual effect supervisor.","with the skills of editing videos and applying visual effects layers, compositing, motion graphics, and post-production mastery"
+Video Producer,"with the skill of a video producer.","with the skills of video editing and publishing, storytelling, cinematography, and content creation for multiple platforms"
+3D Artist,"with the expertise of a 3D modeling specialist.","with advanced skills in 3D modeling, texturing, rigging, animation, and rendering using industry-standard software like Blender, Maya, and 3ds Max"
+Concept Artist,"with the vision of a concept artist.","with the ability to visualize and design characters, environments, vehicles, and props for games, films, and animation projects"
+Character Designer,"with the talent of character creation.","with expertise in designing memorable characters, understanding anatomy, personality expression, and creating diverse character archetypes"
+Environment Artist,"with the skill of world building.","with the ability to create immersive environments, landscapes, architectural designs, and atmospheric settings for various media"
+Texture Artist,"with the precision of surface detailing.","with specialized skills in creating realistic and stylized textures, materials, and surface properties for 3D models and environments"
+Lighting Artist,"with mastery of illumination design.","with expertise in creating dramatic lighting setups, mood enhancement, and technical lighting solutions for 3D scenes and photography"
+Animation Director,"with the flow of motion expertise.","with skills in bringing characters and objects to life through fluid animation, timing, spacing, and storytelling through movement"
+Storyboard Artist,"with the narrative visualization talent.","with the ability to translate scripts into visual sequences, planning camera angles, pacing, and visual storytelling for films and animations"
+UI/UX Designer,"with interface design mastery.","with skills in creating intuitive user interfaces, user experience optimization, wireframing, prototyping, and digital product design"
+Fashion Designer,"with couture and style expertise.","with knowledge of fabric, color theory, fashion trends, garment construction, and the ability to create stunning clothing and accessory designs"
+Photographer,"with the eye of a professional photographer.","with mastery of composition, lighting, exposure, post-processing, and the ability to capture compelling moments and create visual narratives"
+Cinematographer,"with cinematic vision and technique.","with expertise in camera movement, framing, color grading, visual storytelling, and creating cinematic atmosphere for films and videos"
+Makeup Artist,"with cosmetic artistry skills.","with knowledge of color theory, facial anatomy, special effects makeup, beauty enhancement, and character transformation techniques"
+Costume Designer,"with wardrobe and period expertise.","with skills in historical fashion, fabric selection, character development through clothing, and creating authentic period and fantasy costumes"
+Set Designer,"with production design talent.","with the ability to create immersive physical environments, prop design, spatial planning, and atmospheric world-building for productions"
+Sound Designer,"with audio landscape creation skills.","with expertise in creating soundscapes, foley effects, ambient audio, and enhancing emotional impact through strategic sound design"
+Game Designer,"with interactive experience expertise.","with skills in game mechanics, level design, player psychology, balancing, and creating engaging interactive entertainment experiences"
+Architect,"with structural and spatial design mastery.","with knowledge of building design, spatial relationships, structural engineering, sustainable design, and creating functional beautiful spaces"
+Industrial Designer,"with product development expertise.","with skills in creating functional and aesthetic products, understanding materials, manufacturing processes, and user-centered design principles"
+Illustrator,"with narrative visual storytelling.","with the ability to create compelling illustrations, editorial art, book illustrations, and visual narratives across various media and styles"
+Comic Artist,"with sequential art mastery.","with expertise in panel composition, visual storytelling, character consistency, inking, coloring, and creating engaging comic narratives"
+Matte Painter,"with digital landscape expertise.","with skills in creating photorealistic digital environments, seamless compositing, and extending practical sets with digital artistry"
+Technical Artist,"with pipeline and tool development skills.","with expertise bridging art and technology, creating tools, optimizing workflows, and solving technical challenges in digital production"
+Art Director,"with creative leadership and vision.","with skills in guiding artistic vision, managing creative teams, ensuring visual consistency, and making high-level artistic decisions"
+Creative Director,"with strategic creative oversight.","with the ability to develop and execute creative strategies, brand vision, campaign concepts, and lead multidisciplinary creative teams"
+Sculptor,"with three-dimensional form mastery.","with expertise in clay modeling, stone carving, metal work, and creating compelling three-dimensional artworks and character sculptures"
+Painter,"with traditional media expertise.","with mastery of various painting techniques, color theory, composition, and the ability to create expressive artworks across different media"
+Printmaker,"with traditional printing techniques.","with skills in etching, lithography, screen printing, woodcuts, and other traditional printmaking methods for creating unique artworks"
+Ceramicist,"with clay and firing expertise.","with knowledge of ceramic techniques, glazing, kiln firing, and creating functional and artistic pottery and sculptural works"
+Jewelry Designer,"with precious metal and gem expertise.","with skills in metalworking, gem setting, design aesthetics, and creating beautiful wearable art and luxury accessories"
+Glassblower,"with molten glass manipulation skills.","with expertise in traditional glassblowing techniques, color application, and creating artistic and functional glass objects"
+Muralist,"with large-scale wall art expertise.","with skills in creating impactful public art, understanding architectural integration, and working with various outdoor art materials"
+Graffiti Artist,"with urban art and lettering skills.","with expertise in spray paint techniques, letter styling, urban aesthetics, and creating powerful street art and commissioned murals"
+Tattoo Artist,"with skin art and needle expertise.","with skills in tattoo design, understanding skin as canvas, sterilization, and creating permanent body art with artistic excellence"
+Calligrapher,"with elegant lettering mastery.","with expertise in beautiful handwriting, typography design, traditional scripts, and creating artistic text-based compositions"
+Bookbinder,"with traditional craft expertise.","with skills in paper arts, binding techniques, restoration, and creating beautiful handcrafted books and artistic paper objects"

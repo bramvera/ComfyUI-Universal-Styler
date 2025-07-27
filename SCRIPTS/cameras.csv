@@ -1,9 +1,42 @@
-﻿name,short_prompt,long_prompt
-Select a camera...,,,
-Prime Lens,"Fixed focal length.","Fixed focal length.",
-Zoom Lens,"Variable focal length.","Variable focal length.",
-Standard Lens,"General purpose 50mm full frame.","General purpose 50mm full frame.",
-Wide-angle Lens,"Field of view 24mm.","Field of view 24mm.",
-Telephoto Lens,"Telephoto Lens 70-200mm.","Telephoto Lens 70-200mm.",
-Fish's Eye Lens,"Fish's Eye View.","Fish's Eye View.",
-Macro Lens,"Macro,extrem close-up.","Macro,extrem close-up.",
+name,short_prompt,long_prompt
+Select a camera...,,
+Prime Lens,"Fixed focal length.","Fixed focal length lens providing sharp, high-quality images with excellent optical performance and wide aperture capabilities"
+Zoom Lens,"Variable focal length.","Variable focal length lens offering versatility for different compositions without changing position, ideal for dynamic shooting"
+Standard Lens,"General purpose 50mm full frame.","Standard 50mm lens on full frame, mimicking natural human vision with normal perspective and balanced field of view"
+Wide-angle Lens,"Field of view 24mm.","Wide-angle 24mm lens capturing expansive scenes, architectural photography, and dramatic perspective with increased depth of field"
+Telephoto Lens,"Telephoto Lens 70-200mm.","Telephoto 70-200mm lens for distant subjects, portrait photography, compression effects, and beautiful background bokeh"
+Fish's Eye Lens,"Fish's Eye View.","Ultra-wide fisheye lens creating dramatic circular distortion, 180-degree field of view, and unique perspective effects"
+Macro Lens,"Macro, extreme close-up.","Specialized macro lens for extreme close-up photography, 1:1 magnification ratio, incredible detail capture"
+Tilt-Shift Lens,"Selective focus and perspective control.","Tilt-shift lens enabling selective focus effects, perspective correction, and miniature-like depth of field control"
+Ultra-Wide Lens,"Expansive 14mm field of view.","Ultra-wide 14mm lens capturing dramatic perspectives, architectural grandeur, and sweeping landscape vistas"
+Super Telephoto,"Extreme distance 400mm+.","Super telephoto lens 400mm+ for wildlife, sports, and astronomical photography with extreme magnification"
+Portrait Lens,"85mm portrait specialist.","Classic 85mm portrait lens providing flattering compression, beautiful bokeh, and optimal working distance for subjects"
+Vintage Lens,"Classic film-era optics.","Vintage lens with classic rendering, unique character flaws, warm color rendition, and nostalgic image quality"
+Anamorphic Lens,"Cinematic widescreen format.","Anamorphic lens creating cinematic 2.35:1 aspect ratio, distinctive bokeh, and horizontal lens flares"
+Drone Camera,"Aerial perspective view.","Drone-mounted camera providing bird's-eye aerial perspectives, sweeping establishing shots, and unique vantage points"
+Action Camera,"Ultra-wide adventure recording.","Rugged action camera with ultra-wide lens, image stabilization, and compact form factor for extreme activities"
+Medium Format,"Larger sensor high resolution.","Medium format camera with larger sensor, exceptional detail, professional image quality, and shallow depth of field"
+Large Format,"Professional studio quality.","Large format camera providing ultimate image quality, tilt/swing movements, and professional studio capabilities"
+Instant Camera,"Polaroid-style immediate results.","Instant film camera creating nostalgic square formats, unique color characteristics, and immediate physical prints"
+Film Camera,"Analog grain and character.","Traditional film camera with authentic grain structure, natural color rendition, and classic photographic aesthetics"
+Digital Mirrorless,"Modern compact system.","Digital mirrorless camera offering compact size, electronic viewfinder, silent operation, and advanced digital features"
+DSLR Camera,"Professional digital reflex.","Digital SLR camera with optical viewfinder, extensive lens selection, robust build, and professional controls"
+Smartphone Camera,"Mobile photography convenience.","Advanced smartphone camera with computational photography, multiple lenses, and AI-enhanced image processing"
+Security Camera,"Surveillance monitoring view.","Security camera perspective with wide coverage, high contrast, and surveillance-style image characteristics"
+Webcam,"Computer-connected streaming.","Webcam with compact design, automatic exposure, and optimized for video calls and streaming applications"
+GoPro,"Compact extreme sports camera.","Ultra-compact action camera with rugged design, ultra-wide lens, and specialized mounting systems for adventures"
+360 Camera,"Spherical panoramic capture.","360-degree camera capturing immersive spherical content, virtual reality compatible, and complete environmental recording"
+Thermal Camera,"Heat signature imaging.","Thermal imaging camera detecting heat signatures, infrared spectrum capture, and temperature-based visualization"
+Underwater Camera,"Waterproof marine photography.","Specialized underwater camera with waterproof housing, enhanced color correction, and marine photography optimization"
+Time-lapse Camera,"Extended duration capture.","Time-lapse camera with intervalometer, extended battery life, and specialized settings for long-duration projects"
+Astrophotography Camera,"Deep space imaging specialist.","Specialized astrophotography camera with cooling systems, long exposure capability, and enhanced sensitivity"
+Infrared Camera,"Invisible spectrum capture.","Infrared camera capturing beyond visible light, creating ethereal false-color images and unique artistic effects"
+Pinhole Camera,"Simple aperture photography.","Basic pinhole camera creating soft, dreamy images with infinite depth of field and unique optical characteristics"
+Light Field Camera,"Refocusable depth capture.","Advanced light field camera enabling post-capture focus adjustment and three-dimensional image information"
+High-Speed Camera,"Slow motion specialist.","High-speed camera capturing extremely fast events, slow-motion playback, and detailed motion analysis"
+Cinema Camera,"Professional film production.","Professional cinema camera with advanced color science, high dynamic range, and broadcast-quality recording"
+Studio Camera,"Controlled environment specialist.","Professional studio camera with tethering capability, precise color reproduction, and optimal lighting integration"
+Surveillance Drone,"Aerial monitoring system.","Surveillance drone with advanced optics, long flight time, and specialized monitoring and tracking capabilities"
+Microscope Camera,"Scientific magnification imaging.","Scientific microscope camera for extreme magnification, laboratory documentation, and research applications"
+Endoscope Camera,"Internal exploration imaging.","Medical endoscope camera for internal visualization, flexible fiber optics, and detailed diagnostic imaging"
+Satellite Camera,"Orbital Earth observation.","Satellite-mounted camera for Earth observation, geographic mapping, and large-scale environmental monitoring"
