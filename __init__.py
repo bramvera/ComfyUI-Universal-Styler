@@ -1,17 +1,17 @@
 """
-ComfyUI Universal Styler - NAI Prompt Script Database Management
+ComfyUI Universal Styler - Prompt Script Database Management
 Kore Teknology - https://github.com/KoreTeknology/ComfyUI-Universal-Styler
 Release 0.6.0 (26/07/2025) - Updated for ComfyUI 2025 compatibility
 
 Custom nodes for managing prompt scripts, agents, scenes, motions, cameras, 
-lighting, and styles through CSV databases for NAI prompting workflows.
+lighting, and styles through CSV databases for prompting workflows.
 """
 
 __version__ = "0.6.0"
 __title__ = "Universal Styler"
-__description__ = "NAI Prompt Script Database Management for ComfyUI"
+__description__ = "Prompt Script Database Management for ComfyUI"
 __author__ = "Kore Teknology"
-__keywords__ = ["universal", "styler", "NAI", "prompt", "database", "CSV", "agents", "scenes"]
+__keywords__ = ["universal", "styler", "prompt", "database", "CSV", "agents", "scenes"]
 
 # Robust import handling for both relative and absolute contexts
 try:

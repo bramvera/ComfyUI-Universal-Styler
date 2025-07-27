@@ -35,7 +35,7 @@ class SetMainChannel:
 ### SAVE SCRIPT NODE
 
 class SaveScriptToDatabase:
-    """Save custom prompt scripts to Universal Styler CSV databases for NAI prompting and scene management."""
+    """Save custom prompt scripts to Universal Styler CSV databases for prompting and scene management."""
     
     @classmethod  
     def INPUT_TYPES(cls):
@@ -159,7 +159,7 @@ class SaveScriptToDatabase:
 ### LOAD SCIPTS NODE
 
 class LoadScriptsFromDatabase:
-    """Load and compile prompt scripts from Universal Styler CSV databases for NAI prompting with agents, scenes, motions, cameras, lighting, and styles."""
+    """Load and compile prompt scripts from Universal Styler CSV databases for prompting with agents, scenes, motions, cameras, lighting, and styles."""
     
     @staticmethod
     def load_csv_database(csv_path: str, csv_type: str):
@@ -379,7 +379,7 @@ class LoadScriptsFromDatabase:
     RETURN_NAMES = ("channel output", "script output",)
     FUNCTION = "load_scripts"
     CATEGORY = "Universal-Styler"
-    DESCRIPTION = "Load and compile prompt scripts from CSV databases with selectable short/long prompts for NAI prompting (agents, scenes, motions, cameras, lighting, styles)"   
+    DESCRIPTION = "Load and compile prompt scripts from CSV databases with selectable short/long prompts for prompting (agents, scenes, motions, cameras, lighting, styles)"   
 
     def load_scripts(self, script_prefix, channel_input, prompt_type, output_format, randomize, agents, styles, motions, cameras, lightings, scenes, channel_follow, channel_encode, seed=0):
         try:
@@ -502,7 +502,7 @@ NODE_CLASS_MAPPINGS = {
 
 NODE_DISPLAY_NAME_MAPPINGS = {
     "UniversalStyler_SetMainChannel": "Universal Styler - Set Channel ID (Pipeline Management)",
-    "UniversalStyler_LoadScriptsFromDatabase": "Universal Styler - Load Scripts (Short/Long Prompts NAI Database CSV)", 
+    "UniversalStyler_LoadScriptsFromDatabase": "Universal Styler - Load Scripts (Short/Long Prompts Database CSV)", 
     "UniversalStyler_SaveScriptToDatabase": "Universal Styler - Save Prompt Script (CSV Database Management)",
 }
 
